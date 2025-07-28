@@ -1,1 +1,1 @@
-# MatheusSilvaBerozzi_AtividadeRevisao_2DSMtec
+Objetivo: revisar e fixar o conteúdo, sintaxe e aplicação de interfaces em java.
